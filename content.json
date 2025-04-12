@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "list": [
+    {
+      "id": 1,
+      "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_1.jpeg",
+      "categoryName": "City",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_1.jpeg",
+          "id": 2,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_2.jpeg",
+          "id": 3,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_3.jpeg",
+          "id": 4,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_4.jpeg",
+          "id": 5,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_5.jpeg",
+          "id": 6,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_6.jpeg",
+          "id": 7,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_7.jpeg",
+          "id": 8,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_8.jpeg",
+          "id": 9,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_9.jpeg",
+          "id": 10,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_10.jpeg",
+          "id": 11,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_11.jpeg",
+          "id": 12,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_12.jpeg",
+          "id": 13,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/city/img_13.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_1.jpeg",
+      "categoryName": "Fantasy",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_1.jpeg",
+          "id": 2,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_2.jpeg",
+          "id": 3,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_3.jpeg",
+          "id": 4,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_4.jpeg",
+          "id": 5,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_5.jpeg",
+          "id": 6,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_6.jpeg",
+          "id": 7,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_7.jpeg",
+          "id": 8,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_8.jpeg",
+          "id": 9,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_9.jpeg",
+          "id": 10,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/fantasy/img_10.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/minimalist/img_1.jpeg",
+      "categoryName": "Minimalist",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/minimalist/img_1.jpeg",
+          "id": 2,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/minimalist/img_2.jpeg",
+          "id": 3,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/minimalist/img_3.jpeg",
+          "id": 4,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/minimalist/img_4.jpeg",
+          "id": 5,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/minimalist/img_5.jpeg",
+          "id": 6,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/minimalist/img_6.jpeg",
+          "id": 7,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/minimalist/img_7.jpeg",
+          "id": 8,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/minimalist/img_8.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_1.jpeg",
+      "categoryName": "Natural",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_1.jpeg",
+          "id": 2,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_2.jpeg",
+          "id": 3,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_3.jpeg",
+          "id": 4,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_4.jpeg",
+          "id": 5,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_5.jpeg",
+          "id": 6,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_6.jpeg",
+          "id": 7,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_7.jpeg",
+          "id": 8,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_8.jpeg",
+          "id": 9,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_9.jpeg",
+          "id": 10,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_10.jpeg",
+          "id": 11,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/natural/img_11.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_1.jpeg",
+      "categoryName": "Seasonal",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_1.jpeg",
+          "id": 2,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_2.jpeg",
+          "id": 3,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_3.jpeg",
+          "id": 4,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_4.jpeg",
+          "id": 5,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_5.jpeg",
+          "id": 6,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_6.jpeg",
+          "id": 7,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_7.jpeg",
+          "id": 8,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_8.jpeg",
+          "id": 9,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_9.jpeg",
+          "id": 10,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_10.jpeg",
+          "id": 11,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_11.jpeg",
+          "id": 12,
+          "image": "https://cdn.jsdelivr.net/gh/zettelabs/background_changer_contents@main/seasonal/img_12.jpeg"
+        }
+      ]
+    }
+  ]
+}
